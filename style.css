@@ -1,0 +1,16 @@
+.main>div {
+    min-width: 100svw;
+    font-family: 'Roboto' sans-serif;
+}
+
+header[data-testid="stHeader"] {
+    background-color: #1f1f1fd0;
+}
+
+[data-testid="stAppViewContainer"]{
+  background-color: #202020;
+}
+
+div[data-testid="stImage"]>img{
+    border-radius: 5%;
+}
